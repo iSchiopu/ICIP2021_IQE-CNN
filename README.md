@@ -1,5 +1,6 @@
 # ICIP2021_IQE-CNN
-The manuscript entitled "CNN-based Post-filtering for Image Quality Enhancement" was submitted to ICIP 2021.
+
+The manuscript entitled "CNN-based Post-filtering for Image Quality Enhancement" was submitted for publication to IEEE International Conference on Image Processing (IEEE ICIP) 2021. 
 
 Extensive efforts were invested to provide a comparison with the following IEEE TIP 2020 article:
 J. Li, Y. Wang, H. Xie and K. -K. Ma, "Learning a Single Model With a Wide Range of Quality Factors for JPEG Image Artifacts Removal," in IEEE Transactions on Image Processing, vol. 29, pp. 8842-8854, 2020, doi: 10.1109/TIP.2020.3020389.
