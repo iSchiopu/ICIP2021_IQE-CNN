@@ -1,1 +1,6 @@
 
+The LIV1 dataset was downloaded from https://utexas.app.box.com/v/databaserelease2
+The images from the folder databaserelease2\refimgs\ were renamed as "1.bmp", "2.bmp", ..., "29.bmp".
+
+If you wish to use these images in your research, please follows the instruction found on the following website:
+https://live.ece.utexas.edu/research/Quality/subjective.htm
