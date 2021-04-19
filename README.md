@@ -12,19 +12,19 @@ Please run mainText.m to show demonstrate the diffrence between the compression 
 
 By runing mainTest.m in MATLAB the following output will be generated:
 
->> mainTest
-Encoding using PIL library ...
-Encoding using MATLAB and computing metrics (PSNR and SSIM)...
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-PSNR Results:
- MATLAB: 25.6925      28.0607      29.3659      30.2803      31.0267
- PIL:    25.6925      28.0607      29.3659      30.2803      31.0267
- TIP:    25.6        27.96        29.25        30.16        30.91
-SSIM Results:
- MATLAB: 0.81527     0.88868     0.91494     0.92983      0.9395
- PIL:    0.81527     0.88868     0.91494     0.92983      0.9395
- TIP:    0.7454      0.8288      0.8642      0.8846       0.889
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+>> mainTest\
+Encoding using PIL library ...\
+Encoding using MATLAB and computing metrics (PSNR and SSIM)...\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+PSNR Results:\
+ MATLAB: 25.6925      28.0607      29.3659      30.2803      31.0267\
+ PIL:    25.6925      28.0607      29.3659      30.2803      31.0267\
+ TIP:    25.6        27.96        29.25        30.16        30.91\
+SSIM Results:\
+ MATLAB: 0.81527     0.88868     0.91494     0.92983      0.9395\
+ PIL:    0.81527     0.88868     0.91494     0.92983      0.9395\
+ TIP:    0.7454      0.8288      0.8642      0.8846       0.889\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
 
 Since the PSNR values differ and very large SSIM differences are observed between our and reported JPEG compression results, a fair comparison cannot be provided.
 
