@@ -12,7 +12,7 @@ Please run mainText.m to show demonstrate the diffrence between the compression 
 
 By runing mainTest.m in MATLAB the following output will be generated:
 
->> mainTest\
+\>> mainTest\
 Encoding using PIL library ...\
 Encoding using MATLAB and computing metrics (PSNR and SSIM)...\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
