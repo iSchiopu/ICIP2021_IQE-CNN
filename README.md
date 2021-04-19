@@ -24,7 +24,7 @@ SSIM Results:\
  MATLAB: 0.81527     0.88868     0.91494     0.92983      0.9395\
  PIL:    0.81527     0.88868     0.91494     0.92983      0.9395\
  TIP:    0.7454      0.8288      0.8642      0.8846       0.889\
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Since the PSNR values differ and very large SSIM differences are observed between our and reported JPEG compression results, a fair comparison cannot be provided.
 
