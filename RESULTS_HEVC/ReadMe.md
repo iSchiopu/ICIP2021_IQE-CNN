@@ -20,7 +20,7 @@ Figures 3 and 4 in the manuscript will be updated as shown below.
   </tr>
 </table>
 
-Fig. 3. Rate-distortion results for three images, <b>(1st column)</b> Image801.png, <b>(2nd column)</b> Image821.png, <b>(3rd column)</b> Image849.png, and <b>(4th column)</b> over the entire test set, DIV2KvalidHR dataset [24]. <b>(Top)</b> bpc-vs-PSNR results. <b>(Bottom)</b> bpc-vs-SSIM results.
+Fig. 3. Rate-distortion results for three images, <b>(1st column)</b> <i>Image801.png</i>, <b>(2nd column)</b> <i>Image821.png</i>, <b>(3rd column)</b> <i>Image849.png</i>, and <b>(4th column)</b> over the entire test set, DIV2KvalidHR dataset [24]. <b>(Top)</b> bpc-vs-PSNR results. <b>(Bottom)</b> bpc-vs-SSIM results.
 
 <table>
   <tr> 
