@@ -3,7 +3,7 @@ Following the reviewers request, a comparison with HEVC will be added in the man
 Figures 3 and 4 in the manuscript will be updated as shown below.
 
  
-[Fig 3.(a)]<img src="RESULTS_HEVC/Fig3.(a).png" width="400">
+![Fig 3.(a)]<img src="RESULTS_HEVC/Fig3.(a).png" width="400">
 
 (b)	 
 (c)	 
