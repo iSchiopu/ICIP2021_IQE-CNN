@@ -20,8 +20,10 @@ Figures 3 and 4 in the manuscript will be updated as shown below.
 Fig. 3. Rate-distortion results for three images, (1st column) Image801.png, (2nd column) Image821.png, (3rd column) Image849.png, and (4th column) over the entire test set, DIV2KvalidHR dataset [24]. (Top) bpc-vs-PSNR results. (Bottom) bpc-vs-SSIM results.
 
 <table>
-  <tr> <img src="Fig4.(left).png" width="400"></td>
-  <tr> <img src="Fig4.(right).png" width="400"></td>
+  <tr> 
+    <td> <img src="Fig4.(left).png" width="400"></td>
+    <td> <img src="Fig4.(right).png" width="400"></td>
+ </tr>
 </table> 
 Fig. 4. Bjontegaard metrics for every image in the DIV2KvalidHR dataset [24]: (left) BR-PSNR (dB), (right) BR-Rate (%).
 
